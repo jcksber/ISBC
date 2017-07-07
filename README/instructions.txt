@@ -1,0 +1,54 @@
+Created by Jack Kasbeer
+Copyright 2014 jackkasbeer.com
+
+
+
+
+INSTRUCTIONS FOR [COMPANY]
+
+
+
+
+VALUABLE NOTES:  
+
+AUTHOR'S WARNING:
+* ADDING/DELETING SOMETHING AS SMALL AS AN EXTRA CHARACTER IN ANY OF THE FILES EXCEPT THE ONES YOU'RE CREATING COULD RESULT IN A HUGE WEBSITE FLAW, AND A NASTY BUG TO FIND IN THE CODE (TO FIX IT)
+* If the above happens, contact me immediately (847.650.8368) (jkasbeer2@gmail.com)
+* The first note isn't meant to be frightening, just informative; adding a player or testimonial is actually an easy process if you follow this detailed set of instructions
+
+IMAGES:
+* I will only use the extension ".jpg", but ".png" or ".gif" are perfectly acceptable
+* There is a difference between ".jpg" and ".JPG"; image won't load properly if referenced as one when it's actually the other
+* _size	will follow the structure "width x height", and px = PIXELS
+* When changing the size of a picture: (1) make sure you copy it before shrinking it and (2) change whichever measurement [height or width] that ensures they're both AT LEAST the stated "_size")
+* Easiest place to change the size of a picture is in the built-in Mac app "Preview"
+
+TEXT FILES:
+* STRUCTURE of the file is extremely important!
+* LOCATION and NAME of the file are guidelines for organizational purposes and simplicity, but it's very easy to mess something up if they're not followed
+* Easiest way to create a .txt file is by saving the document with ".txt" at the end of the name in Microsoft Word
+
+
+
+
+INSTRUCTIONS FOR.. 
+
+
+
+
+GENERAL STEPS(first steps no matter what):
+
+
+* Finish general steps before doing these...
+
+
+
+
+
+
+
+
+
+
+
+
